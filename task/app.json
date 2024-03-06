@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Task",
-    "slug": "Task",
+    "name": "task",
+    "slug": "task",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,16 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.bala_asta.Task"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "6de7e433-4180-4070-87cb-6f939de352af"
-      }
     }
   }
 }
